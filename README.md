@@ -77,13 +77,11 @@ FantasyCricketGame/
 
 ## Screenshots
 
-Add screenshots here.
+### Main Window
+![Main Window](screenshots/main_window.png)
 
-Example:
-
-```md
-![Main Window](screenshots/main.png)
-```
+### Team Evaluation
+![Evaluation](screenshots/evaluate_score.png)
 
 ---
 
