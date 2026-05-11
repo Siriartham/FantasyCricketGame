@@ -43,12 +43,34 @@ python Main.py
 ```text
 FantasyCricketGame/
 │
-├── Main.py
-├── EvaluateTeam.py
-├── teams_data.py
-├── matches_data.py
-├── FantasyCricketGame.db
-└── requirements.txt
+├── database/
+│   └── FantasyCricketGame.db
+│
+├── modules/
+│   ├── match.py
+│   ├── matches.py
+│   ├── stats.py
+│   └── teams.py
+│
+├── ui/
+│   ├── Main.ui
+│   ├── EvaluateTeam.ui
+│   ├── Main.py
+│   └── EvaluateTeam.py
+│
+├── screenshots/
+│   ├── home.png
+│   ├── evaluate_team.png
+│   └── team_selection.png
+│
+├── data/
+│   ├── players.csv
+│   └── matches.csv
+│
+├── requirements.txt
+├── setup.py
+├── README.md
+└── .gitignore
 ```
 
 ---
